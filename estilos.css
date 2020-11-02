@@ -1,0 +1,52 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #7fbde4;
+}
+
+.titulo{
+   text-align: center;
+      color: black;
+      margin: 50px;
+      width: 100%;
+}
+
+
+.menu{
+    color: azure;
+    font-size: 30px;
+    padding-left: 10px;
+    width: 100%;
+    margin: 2px;
+    
+}
+
+.table{
+
+    padding-left: 10px;
+    width: 100%;
+    margin: 10px;
+}
+
+.ovi{
+    margin: 40px;
+}
+.informacion{
+    font-size: 18px;
+    margin: 40px;
+
+
+}
+
+.parrafo{
+    margin: 10px;
+    width: 100%;
+    padding-left: 10px;
+}
+
+.boton{
+    background-color: #005083;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    
+}
